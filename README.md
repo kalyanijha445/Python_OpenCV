@@ -1,4 +1,4 @@
-# 🧠 Python + OpenCV Learning Journey
+![WhatsApp Image 2025-06-10 at 12 37 53 PM](https://github.com/user-attachments/assets/a5714b22-df50-4b88-85ca-4263720a7f7c)# 🧠 Python + OpenCV Learning Journey
 
 Welcome to my Computer Vision learning repository!  
 This project contains hands-on implementations of image processing techniques using **Python** and **OpenCV**.
@@ -35,3 +35,6 @@ venv\Scripts\activate         # For Windows
 pip install opencv-python numpy matplotlib
 💡 Outputs & Screenshots
 Face Detection	Edge Detection	Drawing Shapes
+
+![WhatsApp Image 2025-06-10 at 12 32 05 PM (1)](https://github.com/user-attachments/assets/8a9a1bae-460f-4041-ba78-7b8bccb0f7f1)
+
